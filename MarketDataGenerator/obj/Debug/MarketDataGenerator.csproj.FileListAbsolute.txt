@@ -1,0 +1,12 @@
+D:\DemoServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.exe.config
+D:\DemoServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.csprojResolveAssemblyReference.cache
+D:\DemoServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.exe
+D:\DemoServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.pdb
+D:\DemoServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.exe
+D:\DemoServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.pdb
+D:\NetServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.exe.config
+D:\NetServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.exe
+D:\NetServices\MarketDataGenerator\bin\Debug\MarketDataGenerator.pdb
+D:\NetServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.csprojResolveAssemblyReference.cache
+D:\NetServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.exe
+D:\NetServices\MarketDataGenerator\obj\Debug\MarketDataGenerator.pdb

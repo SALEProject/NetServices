@@ -1,0 +1,6 @@
+D:\NetServices\FormTemplateProcessor\bin\Debug\FormTemplateProcessor.exe.config
+D:\NetServices\FormTemplateProcessor\bin\Debug\FormTemplateProcessor.exe
+D:\NetServices\FormTemplateProcessor\bin\Debug\FormTemplateProcessor.pdb
+D:\NetServices\FormTemplateProcessor\obj\Debug\FormTemplateProcessor.csprojResolveAssemblyReference.cache
+D:\NetServices\FormTemplateProcessor\obj\Debug\FormTemplateProcessor.exe
+D:\NetServices\FormTemplateProcessor\obj\Debug\FormTemplateProcessor.pdb

@@ -1,0 +1,12 @@
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\bin\Debug\Warranties.exe.config
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\bin\Debug\Warranties.exe
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\bin\Debug\Warranties.pdb
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\obj\Debug\Warranties.csprojResolveAssemblyReference.cache
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\obj\Debug\Warranties.exe
+D:\Projects\BRM\SALE\Implementation\NetServices\NetServices\Warranties\obj\Debug\Warranties.pdb
+D:\NetServices\Warranties\bin\Debug\Warranties.exe.config
+D:\NetServices\Warranties\bin\Debug\Warranties.exe
+D:\NetServices\Warranties\bin\Debug\Warranties.pdb
+D:\NetServices\Warranties\obj\Debug\Warranties.csprojResolveAssemblyReference.cache
+D:\NetServices\Warranties\obj\Debug\Warranties.exe
+D:\NetServices\Warranties\obj\Debug\Warranties.pdb

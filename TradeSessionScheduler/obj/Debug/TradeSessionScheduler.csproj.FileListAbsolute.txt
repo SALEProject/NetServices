@@ -1,0 +1,17 @@
+D:\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe.config
+D:\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe
+D:\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.pdb
+D:\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.exe
+D:\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.pdb
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe.config
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.exe
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.pdb
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.pdb
+D:\Projects\BRM\SALE\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.csprojResolveAssemblyReference.cache
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe.config
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.exe
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.pdb
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.exe
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\bin\Debug\TradeSessionScheduler.pdb
+D:\Projects\BRM\Implementation\NetServices\TradeSessionScheduler\obj\Debug\TradeSessionScheduler.csprojResolveAssemblyReference.cache

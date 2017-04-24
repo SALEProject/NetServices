@@ -1,0 +1,6 @@
+D:\NetServices\DocumentGenerator\bin\Debug\DocumentGenerator.exe.config
+D:\NetServices\DocumentGenerator\obj\Debug\DocumentGenerator.csprojResolveAssemblyReference.cache
+D:\NetServices\DocumentGenerator\bin\Debug\DocumentGenerator.exe
+D:\NetServices\DocumentGenerator\bin\Debug\DocumentGenerator.pdb
+D:\NetServices\DocumentGenerator\obj\Debug\DocumentGenerator.exe
+D:\NetServices\DocumentGenerator\obj\Debug\DocumentGenerator.pdb
